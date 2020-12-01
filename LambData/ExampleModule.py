@@ -1,0 +1,1 @@
+FavoriteAnimals = ["Duck", "Monkey", "Turkey", "Flying Squirell", "Kangaroo"]
